@@ -2,7 +2,8 @@
 [
   { "config": {
     "component": "boost",
-    "component_root": "boost"
+    "component_root": "boost",
+    "licenses": [ "http://opensource.org/licenses/BSL-1.0" ]
   } },
 
   { "gen_sh": {
